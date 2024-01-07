@@ -6,6 +6,7 @@ import VideoDeatil from "./components/VideoDeatil";
 import ChannelDetail from "./components/ChannelDetail";
 import SeacrhFeed from "./components/SeacrhFeed";
 import Sidebar from "./components/Sidebar";
+import Videos from "./components/Videos";
 
 
 function App() {

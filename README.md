@@ -9,3 +9,5 @@
         - Apply Style to Search Component
 
 - Feed Component
+    - Implementing SideBar 
+    -
