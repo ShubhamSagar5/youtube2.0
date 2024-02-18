@@ -8,6 +8,7 @@ import SeacrhFeed from "./components/SeacrhFeed";
 import Sidebar from "./components/Sidebar";
 import Videos from "./components/Videos";
 
+import './app.css'
 
 function App() {
   return (
